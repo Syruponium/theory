@@ -14,16 +14,16 @@ Unlike ΛCDM, Syruponium V8 treats the cosmic vacuum as a superfluid medium. Loc
 The following figures demonstrate the core predictions of the V8 model.
 
 ### 1. Thermal Lensing Correlation
-![Lensing Residual Map](results/fig1_lensing_residual_map.png)
+<img src="results/fig1_lensing_residual_map.png" width="800" alt="Lensing Residual Map">
 *Figure 1: Spatial correlation between thermal flux contours and Syruponium-induced lensing residuals.*
 
 ### 2. Centroid Relaxation
-![Centroid Relaxation Curve](results/fig2_centroid_relaxation_curve.png)
-*Figure 2: Temporal decay of the lensing centroid offset post-collision, governed by the healing timescale $\tau_s$.*
+<img src="results/fig2_centroid_relaxation_curve.png" width="800" alt="Centroid Relaxation Curve">
+*Figure 2: Temporal decay of the lensing centroid offset post-collision, governed by the healing timescale.*
 
 ### 3. Chromatic Signature
-![Chromatic Signature](results/fig3_chromatic_shift_correlation.png)
-*Figure 3: Predicted arcsecond shift ($\Delta\theta$) between NIR and Radio frequencies as a function of local flux.*
+<img src="results/fig3_chromatic_shift_correlation.png" width="800" alt="Chromatic Signature">
+*Figure 3: Predicted arcsecond shift between NIR and Radio frequencies as a function of local flux.*
 
 ## 🔭 Observation Proposals
 A formal **JWST + ALMA Observing Proposal** is located in the `/proposals` directory. This pilot program is designed to search for the $0.01''$ chromatic signature in high-redshift mergers like *El Gordo*.
