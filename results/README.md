@@ -14,15 +14,15 @@ Unlike ΛCDM, Syruponium V8 treats the cosmic vacuum as a superfluid medium. Loc
 The following figures demonstrate the core predictions of the V8 model.
 
 ### 1. Thermal Lensing Correlation
-<img src="results/fig1_lensing_residual_map.png" width="800" alt="Lensing Residual Map">
+![Lensing Residual Map](results/fig1_lensing_residual_map.png)
 *Figure 1: Spatial correlation between thermal flux contours and Syruponium-induced lensing residuals.*
 
 ### 2. Centroid Relaxation
-<img src="results/fig2_centroid_relaxation_curve.png" width="800" alt="Centroid Relaxation Curve">
+![Centroid Relaxation Curve](results/fig2_centroid_relaxation_curve.png)
 *Figure 2: Temporal decay of the lensing centroid offset post-collision, governed by the healing timescale.*
 
 ### 3. Chromatic Signature
-<img src="results/fig3_chromatic_shift_correlation.png" width="800" alt="Chromatic Signature">
+![Chromatic Signature](results/fig3_chromatic_shift_correlation.png)
 *Figure 3: Predicted arcsecond shift between NIR and Radio frequencies as a function of local flux.*
 
 ## 🔭 Observation Proposals
