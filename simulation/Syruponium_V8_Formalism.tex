@@ -1,0 +1,55 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{booktabs}
+\geometry{margin=1in}
+
+\title{\textbf{Testing Syruponium V8: A Multi-Wavelength Chromatic-Shift Search in Strong-Lensing Cluster Mergers}}
+\author{Principal Investigator: [Your Name/Syruponium Consortium]}
+\date{April 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+We propose a joint JWST/ALMA pilot program to perform a decisive test of the Syruponium V8 model. By measuring wavelength-dependent centroid shifts ($\Delta\theta$) in strong-lensing arcs correlated with local energetic flux ($\Phi$), we aim to detect the unique refractive signature of a cosmic condensate—a feature strictly forbidden in $\Lambda$CDM under General Relativity.
+
+\section{Target List \& Coordinates}
+\begin{table}[h!]
+\centering
+\begin{tabular}{l c c c p{4cm}}
+\toprule
+\textbf{Target Name} & \textbf{RA (J2000)} & \textbf{Dec (J2000)} & \textbf{Redshift ($z$)} & \textbf{Selection Rationale} \\
+\midrule
+El Gordo & 01:02:53.1 & -49:15:19 & 0.870 & High $\Phi$ shock, bright arcs. \\
+MACS J0025.4-1222 & 00:25:29.9 & -12:22:45 & 0.584 & Post-merger, clear offsets. \\
+Abell 520 & 04:54:19.0 & +02:56:49 & 0.201 & "Train Wreck" complex $\Phi$. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Time Request Summary}
+\begin{table}[h!]
+\centering
+\begin{tabular}{l c c c}
+\toprule
+\textbf{Facility} & \textbf{Science Time} & \textbf{Overheads} & \textbf{Total Request} \\
+\midrule
+JWST (NIRCam) & 9.0 hrs & 2.0 hrs & \textbf{11.0 hrs} \\
+ALMA (Band 6) & 18.0 hrs & 4.0 hrs & \textbf{22.0 hrs} \\
+\midrule
+\textbf{Total Combined} & & & \textbf{33.0 hrs} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Technical Feasibility: The Gaia-Tie}
+The core of this experiment relies on a relative astrometric precision of $\sigma_{\Delta\theta} \leq 10$ mas. 
+\begin{itemize}
+    \item \textbf{JWST:} We utilize the INTRAMODULE dither pattern to achieve $S/N \geq 50$, tying NIRCam frames to the Gaia-DR3 frame using $\geq 3$ in-field stars. 
+    \item \textbf{ALMA:} Extended configuration (C-8/C-9) will provide a synthesized beam of $\approx 0.02''$. Phase-referencing to ICRF/Gaia-tied calibrators ensures absolute registration.
+\end{itemize}
+
+\end{document}
