@@ -17,6 +17,18 @@ Simulations using the Gross-Pitaevskii Equation (GPE) confirm the following:
 2. **Velocity Excess:** Test particles exhibit an orbital speed ($v_{sim}$) consistently higher than the Newtonian circular speed ($v_{newton}$) in low-temperature regions.
 3. **Orbital Stability:** Despite the extra "Grip," orbits remain stable with radius fluctuations $< 10^{-5}$ over time.
 
+### Visual Validation
+Below are the key results from the GPE simulation (v8-engine):
+
+![Vortex Lattice Density](assets/Condensate_density_after_relaxation.png)
+*Figure 1: The Syruponium vortex lattice showing quantized vortex cores (momentum gears).*
+
+![Velocity Excess Graph](assets/particle_speed_vs_newtonian_circular_speed.png)
+*Figure 2: Orbital velocity comparison. The blue line (Syruponium) shows a clear velocity boost over the Newtonian prediction (dashed orange line).*
+
+![Orbital Stability](assets/particle_radius_vs_time.png)
+*Figure 3: Orbital radius stability over time, proving the "Grip" does not cause orbital decay.*
+
 ## 3. Technical Specifications for Reproduction
 | Parameter | Value | Unit |
 | :--- | :--- | :--- |
