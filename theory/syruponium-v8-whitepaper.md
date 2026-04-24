@@ -20,10 +20,10 @@ Simulations using the Gross-Pitaevskii Equation (GPE) confirm the following:
 ### Visual Validation
 Below are the key results from the GPE simulation (v8-engine):
 
-![Vortex Lattice Density](assets/Condensate_density_after_relaxation.png)
+![Vortex Lattice Density](assets/condensate_density_relaxation.png)
 *Figure 1: The Syruponium vortex lattice showing quantized vortex cores (momentum gears).*
 
-![Velocity Excess Graph](assets/particle_speed_vs_newtonian_circular_speed.png)
+![Velocity Excess Graph](assets/particle_speed_vs_newtonian.png)
 *Figure 2: Orbital velocity comparison. The blue line (Syruponium) shows a clear velocity boost over the Newtonian prediction (dashed orange line).*
 
 ![Orbital Stability](assets/particle_radius_vs_time.png)
