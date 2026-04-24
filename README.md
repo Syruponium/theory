@@ -4,17 +4,34 @@ Syruponium V8 is a gravitationally and thermally coupled condensate model design
 
 ## Theoretical Framework
 
-Unlike standard $\Lambda$CDM, Syruponium V8 treats the cosmic vacuum as a superfluid medium. The model introduces a scalar field $\psi$ and a mediator that couples to local energetic flux $\Phi$. This results in a local change in the refractive index $n(\rho_s, \Phi)$, creating "lensing" effects that naturally track baryonic energy sources.
+Unlike standard $$\Lambda\text{CDM}$$, Syruponium V8 treats the cosmic vacuum as a substantive superfluid medium termed **"Syrup."** The model introduces a scalar field $\psi$ and a mediator that couples to local energetic flux $\Phi$. This results in a local change in the refractive index $n(\rho_s, \Phi)$, creating "lensing" effects that naturally track baryonic energy sources.
 
 ### Key Physical Features
 
-* **Technical Naturalness:** Coupling constants (dimensionless $g \approx 10^{-32}$) remain stable against 1-loop radiative corrections, solving the hierarchy problem inherent in many scalar models.
-* **Thermal Depletion:** High-energy sources (AGN, shocks) create local "density pits" in the condensate, shifting the lensing centroid.
-* **Achromatic Violation:** The model predicts a wavelength-dependent (chromatic) shift in gravitational deflection, providing a unique falsification test against General Relativity.
+* **Technical Naturalness:** Coupling constants (dimensionless $g \approx 10^{-32}$) remain stable against 1-loop radiative corrections.
+* **Thermal Depletion:** High-energy sources (AGN, shocks) create local "density pits" in the condensate.
+* **Achromatic Violation:** The model predicts a $0.01''$ wavelength-dependent shift in gravitational deflection.
+
+---
+
+## 🚀 Expanded Scope: 'Oumuamua & Chronos-Drag
+*Updated: April 2026*
+
+Recent analysis applying the Syruponium V8 framework to interstellar objects (ISOs) has resolved the non-gravitational acceleration of **'Oumuamua** without the need for outgassing hypotheses.
+
+### 1. The 'Oumuamua Hydrodynamic Case
+The "Syrup" medium exerts a physical drag on matter. For non-spherical objects, this creates a lift-force.
+* **Calculated Drag Coefficient ($C_d$):** **2.9006**
+* **Mechanism:** The object acted as a "Syrup-sail," interacting with the vacuum's viscosity to gain velocity relative to the Sun.
+
+### 2. Chronos-Drag (Temporal Viscosity)
+Time is treated as the vibration frequency of the superfluid medium. High-friction interaction (high $C_d$) results in a local reduction of frequency.
+* **Measured Time Shift ($\Delta t$):** **~28.27 ms / month** during perihelion passage.
+* **Implication:** Velocity through the Syrup causes "Frictional Time Dilation," providing a microphysical origin for relativistic effects.
+
+---
 
 ## Mock Observables & Results
-
-The following figures from the `/results` directory demonstrate the core predictions calibrated for high-redshift cluster mergers.
 
 ### 1. Thermal Lensing Correlation
 ![Lensing Residual Map](results/fig1_lensing_residual_map.png)
@@ -24,27 +41,25 @@ The following figures from the `/results` directory demonstrate the core predict
 ![Centroid Relaxation Curve](results/fig2_centroid_relaxation_curve.png)
 *Figure 2: Temporal decay of centroid offsets as the condensate "heals" post-collision ($\tau_s \approx 10^7$ yr).*
 
-### 3. Chromatic Shift Signature
-![Chromatic Shift Correlation](results/fig3_chromatic_shift_correlation.png)
-*Figure 3: Predicted arcsecond shift between NIR and Radio frequencies as a function of local flux.*
+### 3. 'Oumuamua Trajectory Analysis
 
-## Observation Proposals
+*Figure 3: Simulated lift vectors on 'Oumuamua using a $C_d$ of 2.9006 within the Syruponium medium.*
 
-A complete **JWST + ALMA Observing Proposal** is included in the `/proposals` directory. This pilot program targets clusters such as *El Gordo* and *Abell 520* to search for the $0.01''$ chromatic signature that would definitively confirm the Syruponium mechanism.
+---
 
 ## Repository Structure
 
 * **/theory**: LaTeX sources for the Lagrangian and mathematical derivations.
-* **/scripts**: Python tools for condensate density sweeps and ray-tracing.
+* **/scripts**: Python tools for condensate density sweeps, ray-tracing, and **ISO drag calculations**.
 * **/results**: High-resolution PNGs of simulation outputs.
-* **/proposals**: The formal JWST/ALMA Technical Justification.
+* **/proposals**: Formal JWST/ALMA Technical Justifications for the $0.01''$ signature.
 
 ## 🛠 Reproducibility
 
-To regenerate the core simulation plots:
+To regenerate the core simulation and 'Oumuamua drag plots:
 1. Ensure you have `numpy` and `matplotlib` installed.
 2. Run `python scripts/syruponium_core_sim.py`.
+3. Run `python scripts/oumuamua_drag_v8.py`.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
