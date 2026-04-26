@@ -1,0 +1,49 @@
+{
+  "version": "v8.1.0",
+  "timestamp": "2026-04-26T14:00:00Z",
+  "description": "Expanded fluid-dynamic parameter set for Syruponium V8",
+  "params": [
+    {
+      "key": "syrup_elasticity_Es",
+      "value": 2.244825575e15,
+      "units": "N/m^2",
+      "description": "Bulk modulus of the syrup, determines wave propagation speed."
+    },
+    {
+      "key": "syrup_density_rho_s",
+      "value": 2.5e-2,
+      "units": "kg/m^3",
+      "description": "Baseline density of the medium."
+    },
+    {
+      "key": "syrup_viscosity_eta",
+      "value": 1.2e-12,
+      "units": "Pa·s",
+      "description": "The 'thickness' of the syrup, defining the drag coefficient Cd."
+    },
+    {
+      "key": "liquefaction_threshold",
+      "value": 1.0e-30,
+      "units": "J",
+      "description": "Energy threshold where the medium transitions to fluid state."
+    },
+    {
+      "key": "black_hole_compression_limit",
+      "value": 0.999999,
+      "units": "-",
+      "description": "Critical density ratio where the flow reaches singularity behavior."
+    },
+    {
+      "key": "C_d",
+      "value": 2.9006,
+      "units": "-",
+      "description": "Drag coefficient derived from viscosity."
+    },
+    {
+      "key": "chronos_T0",
+      "value": 1.0,
+      "units": "s",
+      "description": "Reference time unit."
+    }
+  ]
+}
