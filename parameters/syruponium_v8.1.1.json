@@ -1,0 +1,33 @@
+{
+  "version": "v8.1.1",
+  "timestamp": "2026-04-26T14:30:00Z",
+  "description": "Fine-tuned elasticity to match official speed of light (c).",
+  "params": [
+    {
+      "key": "syrup_elasticity_Es",
+      "value": 2.246887946842446e15,
+      "units": "N/m^2",
+      "description": "Fine-tuned bulk modulus to match c exactly."
+    },
+    {
+      "key": "syrup_density_rho_s",
+      "value": 2.5e-2,
+      "units": "kg/m^3"
+    },
+    {
+      "key": "syrup_viscosity_eta",
+      "value": 1.2e-12,
+      "units": "Pa·s"
+    },
+    {
+      "key": "C_d",
+      "value": 2.9006,
+      "units": "-"
+    },
+    {
+      "key": "chronos_T0",
+      "value": 1.0,
+      "units": "s"
+    }
+  ]
+}
