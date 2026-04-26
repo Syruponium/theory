@@ -1,0 +1,13 @@
+{
+  "version": "v8.0.1",
+  "timestamp": "2026-04-26T00:00:00Z",
+  "description": "Canonical parameter set for Syruponium V8 protocol",
+  "params": [
+    {"key": "n", "value": 1.000000000024, "units": "-", "uncertainty": null, "source": "Syruponium V8"},
+    {"key": "C_d", "value": 2.9006, "units": "-", "uncertainty": 0.0001, "source": "Syruponium V8"},
+    {"key": "rho_s", "value": 2.55e-11, "units": "kg/m^3", "uncertainty": null, "source": "Syruponium V8"},
+    {"key": "g", "value": 1e-32, "units": "-", "uncertainty": null, "source": "Syruponium V8"},
+    {"key": "achromatic_shift_arcsec", "value": 0.01, "units": "arcsec", "uncertainty": null, "source": "Syruponium V8"},
+    {"key": "chronos_T0", "value": 1.0, "units": "s", "uncertainty": null, "source": "Defined benchmark"}
+  ]
+}
