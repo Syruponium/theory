@@ -9,3 +9,4 @@ This interaction leads to a local depletion of the condensate density $\rho_s$, 
 $$n(\Phi) \approx 1 + \Delta n(\rho_s(\Phi))$$
 
 Technical naturalness is preserved through a mediator-driven $\Xi$, ensuring stability against radiative corrections at the 1-loop level.
+# Copyright (c) 2026 Syruponium. All rights reserved.
