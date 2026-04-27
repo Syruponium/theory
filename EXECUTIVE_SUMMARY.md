@@ -3,6 +3,7 @@
 **Date:** March 2026  
 **Author:** [Je Pseudoniem]  
 **Status:** Pre-publication / Peer Review Phase
+# Copyright (c) 2026 Syruponium. All rights reserved.
 
 ---
 
