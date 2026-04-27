@@ -37,3 +37,4 @@ print(f"Hydrogen: {h_v9*100}%")
 print(f"Helium:   {he_v9*100}%")
 print(f"Lithium-7 Abundance Ratio: {li_v9:.2e}")
 print(f"\nResult: V9.0 predicts a Lithium reduction of {((li_std-li_v9)/li_std)*100:.1f}%")
+# Copyright (c) 2026 Syruponium. All rights reserved.
