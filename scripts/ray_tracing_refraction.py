@@ -31,3 +31,4 @@ def simulate_ray_tracing():
 
 if __name__ == "__main__":
     simulate_ray_tracing()
+# Copyright (c) 2026 Syruponium. All rights reserved.
