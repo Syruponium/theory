@@ -39,3 +39,4 @@ Below are the key results from the GPE simulation (v8-engine):
 
 ## 4. Conclusion
 The Syruponium model replaces the need for "invisible mass" with a fluid-mechanical momentum transfer effect. Galactic rotation curves are revealed as a direct consequence of the thermal state of the Syrupon condensate.
+# Copyright (c) 2026 Syruponium. All rights reserved.
