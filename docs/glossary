@@ -1,0 +1,11 @@
+# Glossary of Syruponium V9.0 Terminology
+
+This document defines the specialized mechanical and fluid-dynamic terms used throughout the Syruponium codebase and theoretical simulations.
+
+| Term | Definition | Context in Code |
+| :--- | :--- | :--- |
+| **Syruponium** | The universal superfluid medium (Non-Newtonian Superfluid). | The global simulation environment/field. |
+| **Syrupon** | The fundamental discrete particle/quanta of the medium. | The individual agent or node in particle-based sims. |
+| **Syruponic Gradient** | The pressure differential that replaces classical gravity. | The vector field governing motion/acceleration. |
+| **Braking Epoch** | The phase where viscosity ($w \approx 0.72$) limits expansion. | The global damping factor in expansion scripts. |
+| **Viscous Coupling** | The 'grip' of the medium on baryonic matter. | The interaction constant between mass and the fluid. |
