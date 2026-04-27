@@ -25,3 +25,4 @@ def run_core_simulation():
 
 if __name__ == "__main__":
     run_core_simulation()
+# Copyright (c) 2026 Syruponium. All rights reserved.
