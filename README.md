@@ -63,3 +63,4 @@ To regenerate the core simulation and 'Oumuamua drag plots:
 
 ## License
 This project is licensed under the MIT License.
+# Copyright (c) 2026 Syruponium. All rights reserved.
