@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or the theoretical framework, please cite it as follows."
+authors:
+  - family-names: "[Uw Achternaam]"
+    given-names: "[Uw Voornaam]"
+title: "Syruponium V9.0: A Unified Mechanical Fluid-Vacuum Framework"
+version: 9.0.0
+date-released: 2026-04-27
+url: "https://github.com/[Uw-Gebruikersnaam]/syruponium"
+keywords:
+  - Syruponium
+  - Syrupon
+  - Syruponic Gradient / Cosmic Bouuyancy
+  - Non-Newtonian Superfluid
+abstract: >-
+  Syruponium V9.0 introduces a mechanical alternative to Lambda-CDM, 
+  proposing the cosmic vacuum as a Non-Newtonian Superfluid medium. 
+  This version formalizes the "Syrupon" as the fundamental quanta 
+  and replaces classical gravity with the "Syruponic Gradient"—a 
+  pressure-driven thermodynamic process. The framework addresses 
+  dark matter phenomenology and cosmic expansion limits through 
+  viscous coupling and fluid dynamics.
