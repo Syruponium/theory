@@ -3,7 +3,6 @@
 **Date:** March 2026  
 **Author:** [Je Pseudoniem]  
 **Status:** Pre-publication / Peer Review Phase
-# Copyright (c) 2026 Syruponium. All rights reserved.
 
 ---
 
@@ -42,3 +41,4 @@ I am seeking a formal **falsification review** from experts in *Modified Gravity
 **Review Question:** Is there a known fluid-dynamical mechanism within the standard model that would suppress this $10^{-2}$ chromatic signature, or does this represent a unique falsification point for refractive vacuum models?
 
 *Access to the full private repository can be granted to qualified researchers upon request.*
+# Copyright (c) 2026 Syruponium. All rights reserved.
