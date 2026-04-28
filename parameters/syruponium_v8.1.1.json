@@ -1,12 +1,49 @@
 {
-  "version": "9.1.0",
+  "version": "9.1.1",
   "timestamp": "2026-04-28",
+  "description": "Perfected light-speed alignment and integrated v9.1 parameters.",
   "params": [
-    {"key": "syrup_elasticity_Es", "value": 8.98755179e16},
-    {"key": "syrup_density_rho_s", "value": 1.0},
-    {"key": "matrix_critical_threshold_Tc", "value": 13.8},
-    {"key": "syrup_viscosity_eta", "value": 1.2e-12},
-    {"key": "syrup_viscosity_matrix_phase", "value": 1.0e-11},
-    {"key": "syrup_drift_validation_snr", "value": 31.6}
+    {
+      "key": "syrup_elasticity_Es",
+      "value": 89875517873681760.0,
+      "units": "N/m^2",
+      "description": "Exact square of c (299792458^2) for zero-deviation vacuum propagation."
+    },
+    {
+      "key": "syrup_density_rho_s", 
+      "value": 1.0,
+      "units": "kg/m^3",
+      "description": "Normalized vacuum density."
+    },
+    {
+      "key": "matrix_critical_threshold_Tc",
+      "value": 13.8,
+      "units": "K",
+      "description": "Phase transition threshold (Hydrogen freezing point)."
+    },
+    {
+      "key": "syrup_viscosity_eta",
+      "value": 1.2e-12,
+      "units": "Pa·s",
+      "description": "Liquid phase viscosity."
+    },
+    {
+      "key": "syrup_viscosity_matrix_phase",
+      "value": 1.0e-11,
+      "units": "Pa·s",
+      "description": "Matrix phase viscosity (8.3x jump)."
+    },
+    {
+      "key": "C_d",
+      "value": 2.9006,
+      "units": "-",
+      "description": "Hydrodynamic drag coefficient for ISO validation."
+    },
+    {
+      "key": "syrup_drift_validation_snr",
+      "value": 31.6,
+      "units": "-",
+      "description": "Target Signal-to-Noise Ratio for mission detection."
+    }
   ]
 }
