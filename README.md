@@ -35,6 +35,11 @@ By applying a drag coefficient of **2.9006**, we successfully reconstruct the no
 ### 3. Dark Matter as Viscous Drag
 Galactic rotation curves are explained by the **8.3x viscosity jump** in the cold intergalactic void. This increased "grip" of the Space-Time Matrix holds stars in stable orbits, eliminating the need for invisible particle mass.
 
+### 4. Solar Thermal Boundary & The Kuiper-Gordel
+Our model predicts that the solar system transitions into the high-viscosity Matrix Phase at approximately **180-185 AU** from the Sun. 
+* **Observation:** Objects moving beyond this boundary (like Voyager or future interstellar probes) will experience an 8.3x increase in vacuum drag.
+* **Result:** This identifies the specific "Detection Floor" for the SYRUP-DRIFT mission.
+
 ---
 
 ## 🛠 Digital Universe & Reproducibility
