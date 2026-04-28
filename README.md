@@ -30,7 +30,7 @@ Our simulations confirm a sharp discontinuity in space-time viscosity at the 13.
 ### 4. Galactic Scale Validation (The Dark Matter Horizon)
 The model explains galactic rotation curves without "Dark Matter" particles. By mapping the Milky Way's heat flux, we identified the **Matrix Boundary at ~37,949 Light Years**. Beyond this radius, the 8.3x viscosity jump provides the "grip" necessary to hold fast-moving stars in orbit.
 
-![Galactic Drag Map](results/galactic_drag_v9.png)
+![Galactic Drag Map](results/galactic_drag_v9_1.png)
 
 ### 5. Exo-Planetary Stability (TRAPPIST-1 Case Study)
 Validation on the TRAPPIST-1 system confirms that all seven planets reside deep within the **Liquid Phase** (~121 K at planet h). This explains the system's extreme orbital resonance: the low-viscosity environment acts as a lubricant, preserving harmonic orbits for billions of years despite intense gravitational interaction.
