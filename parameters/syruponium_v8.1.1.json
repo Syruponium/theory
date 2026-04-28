@@ -1,6 +1,7 @@
 {
-"version": "v9.0.0",
+  "version": "v9.0.0",
   "timestamp": "2026-04-28T17:40:00Z",
+  "copyright": "Copyright (c) 2026 Syruponium. All rights reserved.",
   "description": "Integrated 13.8K phase transition threshold and SYRUP-DRIFT validation parameters.",
   "params": [
     {
@@ -28,8 +29,7 @@
       "key": "chronos_T0",
       "value": 1.0,
       "units": "s"
-    }
-    ,
+    },
     {
       "key": "matrix_critical_threshold_Tc",
       "value": 13.8,
@@ -50,4 +50,3 @@
     }
   ]
 }
-# Copyright (c) 2026 Syruponium. All rights reserved.
