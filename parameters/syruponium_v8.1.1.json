@@ -5,7 +5,7 @@
   "params": [
     {
       "key": "syrup_elasticity_Es",
-      "value": 89875517873681760.0,
+      "value": 89875517873681764,
       "units": "N/m^2",
       "description": "Exact square of c (299792458^2) for zero-deviation vacuum propagation."
     },
