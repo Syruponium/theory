@@ -18,6 +18,20 @@ class SMPCoreEngine:
         self.G = 6.67430e-11         # m³/kg·s²: Gravitational constant
         self.U_MATRIX = self.P_LIMIT # Matrix Energy Density (J/m³)
 
+    def calculate_mass_creation_rate(self, current_density):
+        """
+        Calculates the required mass creation (kg/s) to maintain steady-state density
+        during expansion. 
+        Formula: dm/dt = rho * (dV/dt)
+        """
+        # Based on our validated Expansion Efficiency (dV/dm)
+        expansion_efficiency = 2.62e-39 
+        
+        # The rate at which new mass must be 'printed' per kg of existing mass
+        # to keep the system in equilibrium.
+        dm_dt = current_density * expansion_efficiency
+        return dm_dt
+
     def validate_matrix_state(self, current_temp):
         """Determines the physical state of the Matrix based on temperature."""
         is_rigid = current_temp < self.SNAP_TEMP
