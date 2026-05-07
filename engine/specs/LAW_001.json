@@ -1,0 +1,12 @@
+{
+  "id": "LAW_001",
+  "name": "Mechanical Necessity",
+  "parameters": {
+    "pressure_limit_pa": 1e34
+  },
+  "forbidden_states": [
+    "excessive_pressure_without_singularity",
+    "matrix_structure_overlap"
+  ],
+  "validation_target": "VAL_001_integrity"
+}
