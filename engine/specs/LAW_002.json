@@ -1,0 +1,13 @@
+{
+  "id": "LAW_002",
+  "name": "Elastic Matrix Feedback",
+  "parameters": {
+    "elastic_modulus": "dynamic",
+    "feedback_ratio": 1.0
+  },
+  "forbidden_states": [
+    "uncompensated_mass_injection",
+    "global_pressure_collapse"
+  ],
+  "validation_target": "VAL_002_feedback"
+}
