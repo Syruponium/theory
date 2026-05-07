@@ -1,0 +1,13 @@
+{
+  "id": "LAW_004",
+  "name": "Fluid Information",
+  "parameters": {
+    "max_information_velocity": 275166362.9,
+    "medium_ref_required": true
+  },
+  "forbidden_states": [
+    "non_medium_signal_propagation",
+    "information_loss_in_transit"
+  ],
+  "validation_target": "VAL_004_information"
+}
