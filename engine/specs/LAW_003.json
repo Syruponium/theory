@@ -1,0 +1,14 @@
+{
+  "id": "LAW_003",
+  "name": "Medium Transition",
+  "parameters": {
+    "transition_temp_k": 13.84,
+    "viscosity_superfluid": 0.0,
+    "viscosity_rigid": 2.91e-12
+  },
+  "forbidden_states": [
+    "mixed_viscosity_state",
+    "delayed_phase_transition"
+  ],
+  "validation_target": "VAL_003_phase_stability"
+}
