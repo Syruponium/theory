@@ -1,0 +1,13 @@
+{
+  "id": "LAW_005",
+  "name": "Bernoulli Pinch",
+  "parameters": {
+    "pinch_threshold_velocity": "V_crit",
+    "compression_efficiency": 0.85
+  },
+  "forbidden_states": [
+    "high_flow_dispersion",
+    "negative_filament_tension"
+  ],
+  "validation_target": "VAL_005_structure_integrity"
+}
