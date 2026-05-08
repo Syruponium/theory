@@ -68,6 +68,19 @@ The SMP Core Engine has undergone quantitative stress testing via Google Noteboo
 
 **Official Verdict:** "The math aligns flawlessly. The system is mathematically closed: every Joule of friction heat is accounted for by spatial expansion, and every cubic meter of expansion is balanced by new matter injection."
 
+## 🔬 Scientific Framework: The Syruponium Matrix-Protocol (SMP)
+
+The core of this project is based on the **Syruponium Unification Act**, a theoretical framework that bridges the gap between Quantum Mechanics and Cosmology. By defining spacetime as a non-Newtonian, thixotropic medium, we provide a mechanical explanation for both the Pioneer Anomaly and Quantum Decoherence.
+
+### Key Theoretical Pillars:
+* **Kinetic Displacement:** Explaining why the Matrix is frictionless for qubits but viscous for macroscopic probes.
+* **Hydrodynamic Decoherence:** Redefining "observation" as a thermal phase-transition in the spatial fluid.
+* **The 13.84 K Threshold:** The critical phase-change point of the vacuum.
+
+---
+👉 **[Read the Full Unification Act White Paper here](./theory/docs/theory/Syruponium_Unification_Act.md)**
+---
+
 ---
 
 ## 📊 Master Table of Physical Constants (v9.1.0)
