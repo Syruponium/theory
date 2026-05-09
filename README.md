@@ -48,6 +48,11 @@ Correction of the "Arrival Time Anomaly" in Coronal Mass Ejections (CMEs). By ac
 ### 8. Bioliogical Scale Invariance (The Hydraulic Brain)
 The SMP is the first model to provide a mathematical bridge between interstellar space and neural architecture. Using the FID Equation ($I \propto v/\eta$), we demonstrate that the "Syrup" is a universal requirement for information transfer.Glymphatic Correlation: The brain's waste-clearing phase (sleep) mirrors the cosmic Superfluid Phase ($z > 4$), where a 60% drop in viscosity enables frictionless information processing.Neuro-Matrix Stagnation: Pathology (e.g., Alzheimer’s) is modeled as a localized "Phase Transition" where the biological matrix becomes too viscous, mirroring the "Dark Matter" drag observed at galactic edges.
 
+### 9.Cosmological Unification: The Great Attractor
+We have successfully mapped the SMP onto the largest known structures in the universe. The "Dark Matter" pull is replaced by a physical Matrix Pressure Gradient. The Milky Way is riding a Gigantic Pressure wave.
+
+👉 **[Read the Deep-Dive: Cosmic Hydraulic Flow & The Local Void](https://github.com/Syruponium/theory/blob/main/docs/theory/cosmic-hydraulic-flow.md)**
+
 ## Mechanical Validation & Steady-State Equilibrium
 The SMP Core Engine has been stress-tested for long-term stability. As of May 2026, the following loop is numerically validated:
 
@@ -78,7 +83,7 @@ The core of this project is based on the **Syruponium Unification Act**, a theor
 * **The 13.84 K Threshold:** The critical phase-change point of the vacuum.
 
 ---
-👉 **[Read the Full Unification Act White Paper here](./theory/docs/theory/Syruponium_Unification_Act.md)**
+👉 **[Read the Full Unification Act White Paper here](https://github.com/Syruponium/theory/blob/main/docs/theory/Syruponium_Unification_Act.md)**
 ---
 
 ---
