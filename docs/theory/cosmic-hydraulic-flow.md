@@ -35,6 +35,10 @@ The following plot illustrates the transition of the Matrix from a high-viscosit
 ![SMP Matrix Viscosity Gradient](https://github.com/Syruponium/theory/blob/main/results/SMP_Great_Attractor.png)
 
 *Figure 1: SMP Cosmic Flow Simulation. The blue zone represents the viscous 'piston' of the Local Void, while the thinning line represents the decreasing resistance towards the Laniakea filaments.*
+
+**The Hydraulic Kick Mechanism:**
+This gradient demonstrates that galaxies are not 'projectiles' firing through empty space. Instead, they are passive markers within a vast Matrix pressure system. The expansion of high-viscosity Voids (left) acts as a cosmic piston, displacing the Matrix and everything within it towards the low-viscosity sinks (right). This explains why galaxies on the edge of the Local Void exhibit high peculiar velocities despite a lack of visible foreground mass
+
 ### Key Metrics:
 
 - **Rear Pressure:** Local Void (High Viscosity/Rigid Phase)
