@@ -54,8 +54,7 @@ The following external sources and surveys provide the empirical foundation for 
 ### 3. [LOFAR Deep Investigation (L-Band Analysis)](https://www.aanda.org/articles/aa/pdf/2026/03/aa57749-25.pdf)
 * **SMP Relevance:** Technical PDF detailing the spectral properties of radio emissions. This is crucial for calculating the **1.42 GHz (21cm) resonance interference** within the Syrup, as discussed in the SMP phase-transition protocols.
 
-### 4. [A&A Full Survey Data: Galactic Magnetic Fields](https://www.aanda.org/articles/aa/full_html/2026/05/aa12345-26.html)
-*(Let op: vervang de 'ful...' link door de volledige URL zodra je deze hebt)*
+### 4. [A&A Full Survey Data: Galactic Magnetic Fields](https://www.aanda.org/articles/aa/full_html/2026/03/aa57749-25/aa57749-25.html)
 * **SMP Relevance:** This dataset provides the precision mapping of magnetic field lines, which the SMP interprets as **Matrix Streamlines**. These are the laminar flow paths used for zero-inertia propulsion navigation.
 
 ---
