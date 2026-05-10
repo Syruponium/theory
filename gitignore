@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-*.aux
-*.log
-*.out
-*.pdf
-*.synctex.gz
-.DS_Store
