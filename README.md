@@ -99,7 +99,7 @@ The core of this project is based on the **Syruponium Unification Act**, a theor
 * **The 13.84 K Threshold:** The critical phase-change point of the vacuum.
 
 ---
-👉 **[Read the Full Unification Act White Paper here](https://github.com/Syruponium/theory/blob/main/theory/universal_displacement_principle_white_paper.md)**
+👉 **[Read the Full Unification Act White Paper here](https://github.com/Syruponium/theory/blob/main/docs/theory/syruponium_unification_act.md)**
 ---
 
 ---
