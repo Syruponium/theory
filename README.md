@@ -8,6 +8,10 @@ By treating space-time as a substantive medium ("Syrup"), this model resolves ga
 
 The model identifies a **Universal Phase Transition** at **13.8 K** (the freezing point of Hydrogen). Below this temperature, the vacuum transitions from a near-perfect fluid to a high-viscosity **Space-Time Matrix**.
 
+## 🔬 Latest Research & Predictions
+Our latest technical briefing analyzes the 2026 DESI/LOFAR survey data through the lens of the SMP.
+- [Read the Technical Paper: Predictive Validation via DESI & LOFAR](./research/SMP_Technical_Prediction_DESI_LOFAR.md)
+
 ---
 
 ## 🚀 Scientific Validation & Proof Points
