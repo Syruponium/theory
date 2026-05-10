@@ -1,8 +1,20 @@
-# Syruponium v9.1.0: The Phase-Transition Matrix Model
+# Syruponium Matrix-Protocol (SMP)
+**A Fluid-Dynamic Alternative to ΛCDM Cosmology**
 
-Syruponium v9.1.0 is a computational framework that replaces collisionless Cold Dark Matter (CDM) with a **Phase-Transition Superfluid Medium**. 
+Welcome to the official repository of the Syruponium Matrix-Protocol (SMP). This framework reinterprets the vacuum of space as a high-pressure, thermally coupled superfluid medium ("The Matrix"). 
 
-By treating space-time as a substantive medium ("Syrup"), this model resolves galactic rotation curves, solar flare anomalies, and the non-gravitational acceleration of Interstellar Objects (ISOs) through fluid dynamics and thermal thresholds.
+## 📂 Repository Structure
+
+* **`/theory`**: The core mechanical laws of SMP, including the Universal Displacement Principle and the Thermodynamics of The Snap.
+* **`/anomalies`**: Case studies where SMP provides mechanical solutions to Standard Model paradoxes (JWST, 'Oumuamua, Pioneer, etc.).
+* **`/docs`**: Administrative and navigational files, including the formal `DICTIONARY.md`.
+* **`/research`**: Technical predictions, ray-tracing scripts, and DESI/LOFAR data analysis.
+
+## 🚀 Key Prediction: The 0.01" Chromatic Shift
+SMP predicts a wavelength-dependent shift in gravitational lensing centroids—a phenomenon forbidden by General Relativity's Achromatic Principle. Verification of this signature represents a formal falsification of vacuum-based gravity.
+
+---
+*For inquiries regarding peer review or access to the private simulation engine, see [docs/EXECUTIVE_SUMMARY.md](https://github.com/Syruponium/theory/blob/main/docs/EXECUTIVE_SUMMARY.md).*
 
 ## 🌌 Core Discovery: The 13.8 K Matrix Threshold
 
