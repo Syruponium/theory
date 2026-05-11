@@ -1,13 +1,12 @@
-# Syruponium Matrix-Protocol (SMP)
-**A Fluid-Dynamic Alternative to ΛCDM Cosmology**
-
-# 🌊 Liquid Matters: SMP Framework
+# Syruponium Matrix-Protocol (SMP) (LIquid Matters)
+## 🌊 Liquid Matters: SMP Framework
 
 > [!IMPORTANT]
 > **Ethical Usage Notice:** This project is licensed under the **Hippocratic License 3.0**. 
 > It is strictly prohibited to use the Syruponium Matrix-Protocol (SMP) or the Liquid Matters framework for military applications, weaponization, or any activity that violates human rights. 
 > See [LICENSE.md](https://github.com/Syruponium/theory/blob/main/LICENSE.md) and [ETHICS.md](https://github.com/Syruponium/theory/blob/main/ETHICS.md) for full terms.
 ----
+## A Fluid-Dynamic Alternative to ΛCDM Cosmology
 
 Welcome to the official repository of the Syruponium Matrix-Protocol (SMP). This framework reinterprets the vacuum of space as a high-pressure, thermally coupled superfluid medium ("The Matrix"). 
 
@@ -22,7 +21,7 @@ Welcome to the official repository of the Syruponium Matrix-Protocol (SMP). This
 SMP predicts a wavelength-dependent shift in gravitational lensing centroids—a phenomenon forbidden by General Relativity's Achromatic Principle. Verification of this signature represents a formal falsification of vacuum-based gravity.
 
 ---
-*For inquiries regarding peer review or access to the private simulation engine, see [docs/EXECUTIVE_SUMMARY.md](https://github.com/Syruponium/theory/blob/main/docs/EXECUTIVE_SUMMARY.md).*
+For inquiries regarding peer review or access to the private simulation engine, see [EXECUTIVE_SUMMARY.md](https://github.com/Syruponium/theory/blob/main/docs/EXECUTIVE_SUMMARY.md).
 
 ## 🌌 Core Discovery: The 13.8 K Matrix Threshold
 
