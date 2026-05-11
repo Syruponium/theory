@@ -1,6 +1,14 @@
 # Syruponium Matrix-Protocol (SMP)
 **A Fluid-Dynamic Alternative to ΛCDM Cosmology**
 
+# 🌊 Liquid Matters: SMP Framework
+
+> [!IMPORTANT]
+> **Ethical Usage Notice:** This project is licensed under the **Hippocratic License 3.0**. 
+> It is strictly prohibited to use the Syruponium Matrix-Protocol (SMP) or the Liquid Matters framework for military applications, weaponization, or any activity that violates human rights. 
+> See [LICENSE.md](https://github.com/Syruponium/theory/blob/main/LICENSE.md) and [ETHICS.md](https://github.com/Syruponium/theory/blob/main/ETHICS.md) for full terms.
+----
+
 Welcome to the official repository of the Syruponium Matrix-Protocol (SMP). This framework reinterprets the vacuum of space as a high-pressure, thermally coupled superfluid medium ("The Matrix"). 
 
 ## 📂 Repository Structure
