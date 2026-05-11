@@ -76,6 +76,10 @@ We have successfully mapped the SMP onto the largest known structures in the uni
 
 👉 **[Read the Deep-Dive: Cosmic Hydraulic Flow & The Local Void](https://github.com/Syruponium/theory/blob/main/docs/theory/cosmic-hydraulic-flow.md)**
 
+---
+## Earth's Historical Rotation Eexplained
+**📊 Validation:** See how Earth's historical rotation confirms Matrix Viscosity during the Snowball Earth event. [Read more here](https://github.com/Syruponium/theory/blob/main/research/LOD-planetary-braking.md).
+
 ## Mechanical Validation & Steady-State Equilibrium
 The SMP Core Engine has been stress-tested for long-term stability. As of May 2026, the following loop is numerically validated:
 
@@ -84,6 +88,8 @@ The SMP Core Engine has been stress-tested for long-term stability. As of May 20
 * **Mass Injection Rate:** 2.62e-66 kg/(m³·s) (Density Maintenance)
 
 **Verdict:** The system maintains a perfect mathematically closed "Steady-State". Every Joule of friction heat is accounted for by spatial expansion, and every cubic meter of expansion is matched exactly by new matter injection (Helium-3) from the Matrix. This prevents both "Heat Death" and "Thinning" of the cosmic fabric.
+
+---
 
 ### **Independent AI System Validation (May 2026)**
 The SMP Core Engine has undergone quantitative stress testing via Google NotebookLM. 
@@ -95,6 +101,8 @@ The SMP Core Engine has undergone quantitative stress testing via Google Noteboo
 * **Density Stability:** Confirmed via calibrated Mass Creation Rate.
 
 **Official Verdict:** "The math aligns flawlessly. The system is mathematically closed: every Joule of friction heat is accounted for by spatial expansion, and every cubic meter of expansion is balanced by new matter injection."
+
+---
 
 ## 🔬 Scientific Framework: The Syruponium Matrix-Protocol (SMP)
 
