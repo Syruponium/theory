@@ -46,51 +46,6 @@ Our latest technical briefing analyzes the 2026 DESI/LOFAR survey data through t
 - [Read the Technical Paper: Predictive Validation via DESI & LOFAR](./research/SMP_Technical_Prediction_DESI_LOFAR.md)
 
 ---
-
-## 🚀 Scientific Validation & Proof Points
-
-### 1. ISO Propulsion ('Oumuamua Lift)
-By applying a drag coefficient ($C_d$) of **2.9006**, we reconstruct 'Oumuamua's 2017 trajectory as a "Syrup-sail" effect. The model proves that elongated objects gain non-gravitational lift when transitioning into colder, more viscous space, requiring no outgassing hypothesis.
-
-![Oumuamua Trajectory](results/oumuamua_lift_v9.png)
-
-### 2. Solar Thermal Gradient (and the 182 AU Boundary)
-Analysis of the sun's heat flux shows that the "Syrup" remains in a low-viscosity Liquid Phase within the inner solar system. The model predicts a thermal "exit point" at **~182.4 AU**, where the background temperature drops below 13.8 K, triggering the Matrix Phase.
-
-![Solar Boundary](results/solar_boundary_v9.png)
-
-### 3. The Syruponic Jerk (Phase Transition)
-Our simulations confirm a sharp discontinuity in space-time viscosity at the 13.8 K boundary. This "Jerk" (the rate of change of acceleration) provides the measurable signature for the detection of the Space-Time Matrix during deep-space transitions.
-
-![Phase Transition Graph](results/phase_transition_v9.png)
-
-### 4. Galactic Scale Validation (The Dark Matter Horizon)
-The model explains galactic rotation curves without "Dark Matter" particles. By mapping the Milky Way's heat flux, we identified the **Matrix Boundary at ~37,949 Light Years**. Beyond this radius, the 8.3x viscosity jump provides the "grip" necessary to hold fast-moving stars in orbit.
-
-![Galactic Drag Map](results/galactic_drag_v9_1.png)
-
-### 5. Exo-Planetary Stability (TRAPPIST-1 Case Study)
-Validation on the TRAPPIST-1 system confirms that all seven planets reside deep within the **Liquid Phase** (~121 K at planet h). This explains the system's extreme orbital resonance: the low-viscosity environment acts as a lubricant, preserving harmonic orbits for billions of years despite intense gravitational interaction.
-
-![Trappist Thermal Map](results/trappist_check_v9.png)
-
-### 6. Viscous Shielding & Habitability
-A breakthrough in astrobiology: The model suggests that vacuum viscosity acts as a mechanical buffer. This **"Viscous Shielding"** helps planets with weak magnetospheres retain their atmospheres by anchoring air molecules against stellar wind erosion, significantly expanding the habitable zone for M-dwarf systems.
-
-### 7. Space Weather & Syruponic Drag
-Correction of the "Arrival Time Anomaly" in Coronal Mass Ejections (CMEs). By accounting for a **3.5% velocity reduction** due to Syruponic Drag ($1.0 \times 10^{-11} \text{ Pa·s}$), the model accurately predicts the ~1.5-hour delay observed in solar flare impacts on Earth.
-
-![Solar Flare Drag Analysis](results/flare_impact_v9.png)
-
-### 8. Bioliogical Scale Invariance (The Hydraulic Brain)
-The SMP is the first model to provide a mathematical bridge between interstellar space and neural architecture. Using the FID Equation ($I \propto v/\eta$), we demonstrate that the "Syrup" is a universal requirement for information transfer.Glymphatic Correlation: The brain's waste-clearing phase (sleep) mirrors the cosmic Superfluid Phase ($z > 4$), where a 60% drop in viscosity enables frictionless information processing.Neuro-Matrix Stagnation: Pathology (e.g., Alzheimer’s) is modeled as a localized "Phase Transition" where the biological matrix becomes too viscous, mirroring the "Dark Matter" drag observed at galactic edges.
-
-### 9.Cosmological Unification: The Great Attractor
-We have successfully mapped the SMP onto the largest known structures in the universe. The "Dark Matter" pull is replaced by a physical Matrix Pressure Gradient. The Milky Way is riding a Gigantic Pressure wave.
-
-👉 **[Read the Deep-Dive: Cosmic Hydraulic Flow & The Local Void](https://github.com/Syruponium/theory/blob/main/docs/theory/cosmic-hydraulic-flow.md)**
-
----
 ## Earth's Historical Rotation Eexplained
 **📊 Validation:** See how Earth's historical rotation confirms Matrix Viscosity during the Snowball Earth event. [Read more here](https://github.com/Syruponium/theory/blob/main/research/LOD-planetary-braking.md).
 
@@ -134,6 +89,49 @@ The core of this project is based on the **Syruponium Unification Act**, a theor
 #### **[Read the Full White Paper of the Great Shifts here](https://github.com/Syruponium/theory/blob/main/docs/white_paper.md)**
 ---
 
+## 🚀 Scientific Validation & Proof Points
+
+### 1. ISO Propulsion ('Oumuamua Lift)
+By applying a drag coefficient ($C_d$) of **2.9006**, we reconstruct 'Oumuamua's 2017 trajectory as a "Syrup-sail" effect. The model proves that elongated objects gain non-gravitational lift when transitioning into colder, more viscous space, requiring no outgassing hypothesis.
+
+![Oumuamua Trajectory](results/oumuamua_lift_v9.png)
+
+### 2. Solar Thermal Gradient (and the 182 AU Boundary)
+Analysis of the sun's heat flux shows that the "Syrup" remains in a low-viscosity Liquid Phase within the inner solar system. The model predicts a thermal "exit point" at **~182.4 AU**, where the background temperature drops below 13.8 K, triggering the Matrix Phase.
+
+![Solar Boundary](results/solar_boundary_v9.png)
+
+### 3. The Syruponic Jerk (Phase Transition)
+Our simulations confirm a sharp discontinuity in space-time viscosity at the 13.8 K boundary. This "Jerk" (the rate of change of acceleration) provides the measurable signature for the detection of the Space-Time Matrix during deep-space transitions.
+
+![Phase Transition Graph](results/phase_transition_v9.png)
+
+### 4. Galactic Scale Validation (The Dark Matter Horizon)
+The model explains galactic rotation curves without "Dark Matter" particles. By mapping the Milky Way's heat flux, we identified the **Matrix Boundary at ~37,949 Light Years**. Beyond this radius, the 8.3x viscosity jump provides the "grip" necessary to hold fast-moving stars in orbit.
+
+![Galactic Drag Map](results/galactic_drag_v9_1.png)
+
+### 5. Exo-Planetary Stability (TRAPPIST-1 Case Study)
+Validation on the TRAPPIST-1 system confirms that all seven planets reside deep within the **Liquid Phase** (~121 K at planet h). This explains the system's extreme orbital resonance: the low-viscosity environment acts as a lubricant, preserving harmonic orbits for billions of years despite intense gravitational interaction.
+
+![Trappist Thermal Map](results/trappist_check_v9.png)
+
+### 6. Viscous Shielding & Habitability
+A breakthrough in astrobiology: The model suggests that vacuum viscosity acts as a mechanical buffer. This **"Viscous Shielding"** helps planets with weak magnetospheres retain their atmospheres by anchoring air molecules against stellar wind erosion, significantly expanding the habitable zone for M-dwarf systems.
+
+### 7. Space Weather & Syruponic Drag
+Correction of the "Arrival Time Anomaly" in Coronal Mass Ejections (CMEs). By accounting for a **3.5% velocity reduction** due to Syruponic Drag ($1.0 \times 10^{-11} \text{ Pa·s}$), the model accurately predicts the ~1.5-hour delay observed in solar flare impacts on Earth.
+
+![Solar Flare Drag Analysis](results/flare_impact_v9.png)
+
+### 8. Bioliogical Scale Invariance (The Hydraulic Brain)
+The SMP is the first model to provide a mathematical bridge between interstellar space and neural architecture. Using the FID Equation ($I \propto v/\eta$), we demonstrate that the "Syrup" is a universal requirement for information transfer.Glymphatic Correlation: The brain's waste-clearing phase (sleep) mirrors the cosmic Superfluid Phase ($z > 4$), where a 60% drop in viscosity enables frictionless information processing.Neuro-Matrix Stagnation: Pathology (e.g., Alzheimer’s) is modeled as a localized "Phase Transition" where the biological matrix becomes too viscous, mirroring the "Dark Matter" drag observed at galactic edges.
+
+### 9. Cosmological Unification: The Great Attractor
+We have successfully mapped the SMP onto the largest known structures in the universe. The "Dark Matter" pull is replaced by a physical Matrix Pressure Gradient. The Milky Way is riding a Gigantic Pressure wave.
+
+👉 **[Read the Deep-Dive: Cosmic Hydraulic Flow & The Local Void](https://github.com/Syruponium/theory/blob/main/docs/theory/cosmic-hydraulic-flow.md)**
+
 ## 📊 Master Table of Physical Constants (v9.1.0)
 
 | Parameter | Symbol | Value | Domain |
@@ -160,5 +158,5 @@ This repository is a **Live Science** environment. All constants are stored in t
 Theoretical baseline for the **SYRUP-DRIFT SmallSat mission**, designed to detect the 13.8 K viscosity shift as a satellite passes through the Solar Thermal Boundary (predicted at ~182.4 AU).
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Hippocratic License.
 **Copyright (c) 2026 Syruponium. All rights reserved.**
