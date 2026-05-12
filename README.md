@@ -127,10 +127,11 @@ The core of this project is based on the **Syruponium Unification Act**, a theor
 * **Hydrodynamic Decoherence:** Redefining "observation" as a thermal phase-transition in the spatial fluid.
 * **The 13.84 K Threshold:** The critical phase-change point of the vacuum.
 
+## Unifications Paper
+#### **[Read the Full Unification Act White Paper here](https://github.com/Syruponium/theory/blob/main/docs/theory/syruponium_unification_act.md)**
 ---
-👉 **[Read the Full Unification Act White Paper here](https://github.com/Syruponium/theory/blob/main/docs/theory/syruponium_unification_act.md)**
----
-
+## Syruponium White Paper of the Great Shifts
+#### **[Read the Full White Paper of the Great Shifts here](https://github.com/Syruponium/theory/blob/main/docs/white_paper.md)**
 ---
 
 ## 📊 Master Table of Physical Constants (v9.1.0)
