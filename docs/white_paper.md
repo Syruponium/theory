@@ -18,6 +18,11 @@ A supercritical fluid is a "hybrid" state of matter. It possesses the unique abi
 * Effuse through solids like a gas: It has no surface tension and nearly zero viscosity, allowing it to penetrate any structure.
 * Dissolve materials like a liquid: It has a high density, making it a powerful universal solvent.
 
+### These are the values the universe uses
+- Baseline pressure: $10^{34}$ Pa that keeps reality in tact
+- There is a boiling point: $10^{32}$ K where the universe simply cannot hold any more energy
+- And the temperture is a spectrum where its getting colder, the universe changes from state, allowing black holes to form, matter to create, and galaxies to hold together.
+
 ![Diagram Superfluid Phases](https://github.com/Syruponium/theory/blob/main/images/supercritical_fluid_figure_1.png)
 _A diagram of how the universe would look like in its phases_
 
