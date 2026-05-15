@@ -1,4 +1,4 @@
-# Syruponium Matrix-Protocol (SMP) (LIquid Matters)
+# Syruponium Matrix-Protocol (SMP) (Liquid Matters)
 ## 🌊 Liquid Matters: SMP Framework
 
 > [!IMPORTANT]
